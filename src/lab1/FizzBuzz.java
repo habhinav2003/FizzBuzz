@@ -25,8 +25,7 @@ class FizzBuzz {
             } else {
                 System.out.println(i);
             }
-
-            i++;   // increment counter
+            i++;
         }
     }
 }
